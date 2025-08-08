@@ -1,0 +1,26 @@
+DoctorID,Name,Speciality,Department,ExperienceYears,City,Town
+1,Dr.Amanda Faulkner,ENT Specialist,ENT,22,Auckland,Papakura
+2,Dr.Julie Green,Neurologist,Neurology,19,Auckland,Glenfield
+3,Dr.Holly Jones-Cresswell,Cardiologist,Cardiology,26,Auckland,Manukau
+4,Dr.Faith Smith,Neurologist,Neurology,11,Auckland,Glenfield
+5,Dr.Jason Funnell,General Practitioner,General Medicine,20,Auckland,Albany
+6,Dr.Raewyn Barnes,Neurologist,Neurology,30,Auckland,Glenfield
+7,Dr.Andrea McGregor,ENT Specialist,ENT,15,Auckland,Howick
+8,Dr.Lily Williams,Endocrinologist,Endocrinology,19,Auckland,New Lynn
+9,Dr.Julie Little,Orthopedic Surgeon,Orthopedics,10,Auckland,Albany
+10,Dr.Nadine Campbell-Learmonth,Pulmonologist,Pulmonology,17,Auckland,Howick
+11,Dr.Jade Street,General Practitioner,General Medicine,35,Auckland,Howick
+12,Dr.Tracey Barker,Pediatrician,Pediatrics,5,Auckland,Albany
+13,Dr.Matthew Dixon,Psychiatrist,Psychiatry,23,Auckland,Papakura
+14,Dr.Andrew Martin,Cardiologist,Cardiology,10,Auckland,Takapuna
+15,Dr.Sadie Rowe,Endocrinologist,Endocrinology,12,Auckland,Manukau
+16,Dr.Matthew Pickering,ENT Specialist,ENT,32,Auckland,Howick
+17,Dr.Tessa Ryan,Orthopedic Surgeon,Orthopedics,22,Auckland,Glenfield
+18,Dr.Mareikura Giles,General Practitioner,General Medicine,7,Auckland,Pukekohe
+19,Dr.Martin Allan-Buchanan,Pediatrician,Pediatrics,4,Auckland,Silverdale
+20,Dr.Nicole Stevens,Psychiatrist,Psychiatry,13,Auckland,Takapuna
+21,Dr.Isaac Johansen,Psychiatrist,Psychiatry,33,Auckland,Silverdale
+22,Dr.Lucy McMahon,Orthopedic Surgeon,Orthopedics,4,Auckland,Takapuna
+23,Dr.Martin Roberts,Orthopedic Surgeon,Orthopedics,8,Auckland,Henderson
+24,Dr.Louise Short-Greig,Orthopedic Surgeon,Orthopedics,31,Auckland,New Lynn
+25,Dr.Kevin Short,Endocrinologist,Endocrinology,33,Auckland,Silverdale

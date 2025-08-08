@@ -1,0 +1,351 @@
+PatientID,Name,Gender,DOB,Age,City,Town,TownCategory,Insurance,BloodType,ChronicCondition,RegistrationDate
+1,Peter Jensen,Male,2021-08-17,3,Auckland,Takapuna,Coastal,Yes,O+,None,2020-07-20
+2,Annette Grant,Male,1953-08-04,72,Auckland,New Lynn,Inland,Yes,A+,Hypertension,2020-06-23
+3,David Davey,Male,1938-08-28,87,Auckland,Howick,Coastal,Yes,O+,Arthritis,2020-05-27
+4,Jessica Ferguson,Female,2010-12-26,14,Auckland,Howick,Coastal,No,O+,None,2021-04-18
+5,Oliver Harrison,Male,1972-06-17,53,Auckland,Manukau,Inland,No,O+,Hypertension,2019-08-30
+6,Ava Fisher,Female,1955-10-05,69,Auckland,Albany,Coastal,No,O+,Hypertension,2021-06-08
+7,Emily Jones-Lloyd,Female,1983-06-16,42,Auckland,Takapuna,Coastal,No,A+,Arthritis,2022-07-13
+8,Liam Long,Female,1951-08-04,74,Auckland,Albany,Coastal,Yes,AB+,Arthritis,2022-10-29
+9,Courtney Brown-Morton,Female,2018-10-12,6,Auckland,Pukekohe,Inland,Yes,O+,Asthma,2022-09-06
+10,Shaun Fisher,Female,1973-12-26,51,Auckland,Albany,Coastal,Yes,O-,Arthritis,2020-04-13
+11,Isaiah Wood,Female,1996-04-23,29,Auckland,Henderson,Inland,Yes,O+,None,2022-09-16
+12,Megan Elliott-Jensen,Male,1970-12-08,54,Auckland,Pukekohe,Inland,Yes,A+,Diabetes (Type 2),2020-03-18
+13,Nikora Spencer-Freeman,Female,1997-07-07,28,Auckland,Manukau,Inland,Yes,A-,None,2022-10-31
+14,Ryan Wills,Male,1978-09-26,46,Auckland,Henderson,Inland,Yes,B+,Arthritis,2020-01-30
+15,Daniel Croad,Male,1989-03-14,36,Auckland,Henderson,Inland,No,O+,Diabetes (Type 2),2021-11-18
+16,Jenna Mortimer,Female,1977-06-05,48,Auckland,Howick,Coastal,No,A+,Diabetes (Type 2),2021-05-31
+17,Cameron McKinnon-Atkinson,Female,1997-01-18,28,Auckland,Silverdale,Coastal,Yes,O+,None,2020-10-26
+18,Jennifer Cook-Jacques,Female,2014-02-28,11,Auckland,Pukekohe,Inland,Yes,A+,Asthma,2023-04-02
+19,Phillip Hadfield,Male,2003-12-12,21,Auckland,New Lynn,Inland,No,B+,None,2023-10-21
+20,Robert Grant,Male,1955-05-27,70,Auckland,Silverdale,Coastal,Yes,A+,Heart Disease,2024-12-10
+21,Lynne Weston,Female,1943-03-31,82,Auckland,Pukekohe,Inland,No,A+,Chronic Kidney Disease,2022-11-17
+22,Nicholas Thomas,Male,1968-10-25,56,Auckland,Albany,Coastal,Yes,A+,Diabetes (Type 2),2024-04-23
+23,Bella Nicholson,Female,2007-09-06,17,Auckland,Albany,Coastal,Yes,O+,Asthma,2021-11-15
+24,William Nolan-Allan,Female,1996-05-08,29,Auckland,New Lynn,Inland,Yes,A+,Asthma,2019-08-20
+25,Scott Allan-Ward,Female,1949-01-30,76,Auckland,New Lynn,Inland,No,O+,Arthritis,2024-12-03
+26,Vanessa Boon,Male,1985-06-28,40,Auckland,Pukekohe,Inland,No,O+,Hypertension,2020-12-23
+27,Kathleen Thomas,Female,1934-09-05,90,Auckland,Howick,Coastal,No,O-,Hypertension,2024-09-12
+28,Angus Aitken,Male,1984-01-01,41,Auckland,Papakura,Inland,Yes,B-,Arthritis,2022-03-22
+29,Sandra Meads,Male,1945-04-27,80,Auckland,Silverdale,Coastal,Yes,A-,Heart Disease,2020-05-02
+30,Mitchell Gibb,Female,2007-02-06,18,Auckland,Howick,Coastal,Yes,B+,Anxiety,2020-09-03
+31,Sophia Grant,Female,1957-01-27,68,Auckland,Manukau,Inland,Yes,A+,Chronic Kidney Disease,2021-11-10
+32,Paul Kennedy,Female,1963-06-05,62,Auckland,Albany,Coastal,Yes,O+,Hypertension,2024-03-11
+33,Susan Ford,Male,2023-01-18,2,Auckland,Pukekohe,Inland,Yes,O+,Asthma,2022-10-13
+34,Gregory Forrest,Male,1968-05-04,57,Auckland,Albany,Coastal,Yes,O-,None,2021-07-08
+35,Aaron Tucker,Male,1965-12-02,59,Auckland,Glenfield,Coastal,Yes,O+,Diabetes (Type 2),2024-08-11
+36,Taylor Gleeson,Female,1942-08-12,83,Auckland,Howick,Coastal,Yes,B+,Heart Disease,2021-07-21
+37,Elijah Fuller,Male,1944-03-30,81,Auckland,Manukau,Inland,No,A+,Arthritis,2023-12-24
+38,Lorraine Jensen-Crawford,Male,2007-12-28,17,Auckland,Albany,Coastal,No,B+,Asthma,2020-09-24
+39,Blair Kelly,Male,1990-01-01,35,Auckland,Howick,Coastal,Yes,A+,None,2021-03-23
+40,Shirley Taylor,Male,1992-04-01,33,Auckland,Glenfield,Coastal,Yes,O-,None,2023-02-07
+41,James Harrison,Male,2023-07-15,2,Auckland,Takapuna,Coastal,Yes,A+,None,2020-06-10
+42,Craig Ferguson,Male,1949-06-21,76,Auckland,Howick,Coastal,Yes,A+,Hypertension,2021-09-20
+43,John Spelman-Williams,Female,1992-01-07,33,Auckland,Takapuna,Coastal,Yes,O+,None,2021-03-02
+44,Michael Butler,Female,2009-07-01,16,Auckland,Glenfield,Coastal,No,A-,None,2020-06-09
+45,Christopher Fuller,Female,1936-08-10,89,Auckland,Silverdale,Coastal,Yes,O+,Hypertension,2020-05-25
+46,Christopher Smith,Male,1963-09-10,61,Auckland,Henderson,Inland,Yes,A+,Hypertension,2023-01-06
+47,Evie Drummond,Male,1987-09-26,37,Auckland,Takapuna,Coastal,Yes,O+,None,2021-11-10
+48,Craig Reid,Male,2010-03-29,15,Auckland,Howick,Coastal,Yes,A-,None,2023-09-30
+49,Angela Davies,Male,1942-07-24,83,Auckland,Pukekohe,Inland,Yes,A+,Hypertension,2024-07-13
+50,Kay Rees,Female,1941-06-04,84,Auckland,Glenfield,Coastal,Yes,A+,Hypertension,2024-07-28
+51,Anna Edwards,Female,1956-01-11,69,Auckland,Silverdale,Coastal,Yes,O+,Heart Disease,2020-02-02
+52,James Claridge,Male,2015-08-02,10,Auckland,Takapuna,Coastal,No,AB-,Asthma,2020-03-08
+53,Lynette Gore-Currie,Male,2012-02-18,13,Auckland,New Lynn,Inland,No,O+,Asthma,2021-09-12
+54,Grace Carter,Male,2014-01-14,11,Auckland,Howick,Coastal,No,O+,Asthma,2024-05-31
+55,James Joe-Stevens,Female,1977-05-12,48,Auckland,Pukekohe,Inland,Yes,B+,None,2021-08-20
+56,John Kirk,Female,1977-08-19,48,Auckland,Albany,Coastal,Yes,O+,None,2020-03-22
+57,Debra Roberts,Male,1948-03-17,77,Auckland,New Lynn,Inland,Yes,O+,Hypertension,2020-03-24
+58,Isaac Hart,Female,1982-02-06,43,Auckland,Howick,Coastal,Yes,O-,Diabetes (Type 2),2020-03-10
+59,Hana Bull-Lane,Female,2008-07-13,17,Auckland,Takapuna,Coastal,Yes,A+,Asthma,2022-03-06
+60,Trevor Stewart,Male,2010-01-30,15,Auckland,Henderson,Inland,Yes,A+,None,2022-02-25
+61,Charlotte Miller,Female,1950-04-23,75,Auckland,New Lynn,Inland,Yes,A+,Heart Disease,2020-07-07
+62,Nicholas Rees,Male,1963-04-08,62,Auckland,New Lynn,Inland,Yes,O+,Hypertension,2022-07-10
+63,Taylor Gilbert-Scott,Female,2003-05-22,22,Auckland,Silverdale,Coastal,No,O+,None,2023-10-05
+64,Aaron McGill,Male,1992-04-01,33,Auckland,Henderson,Inland,Yes,O+,None,2021-12-16
+65,Peter Simmons,Female,2021-04-24,4,Auckland,Pukekohe,Inland,Yes,A-,None,2021-10-31
+66,Brent Faulkner,Male,1992-10-22,32,Auckland,Silverdale,Coastal,No,O+,Anxiety,2024-05-17
+67,Samuel Greer,Female,1954-11-20,70,Auckland,Manukau,Inland,No,O-,Heart Disease,2024-03-31
+68,Andrew O'Sullivan,Female,1954-10-03,70,Auckland,Silverdale,Coastal,No,O+,Heart Disease,2023-04-06
+69,Nicholas Donaldson,Female,1940-01-12,85,Auckland,Howick,Coastal,Yes,A-,Hypertension,2022-08-25
+70,Yvonne Simonsen,Male,1982-09-26,42,Auckland,Howick,Coastal,Yes,O+,Hypertension,2024-05-14
+71,Stephen Smith,Male,1966-10-27,58,Auckland,Glenfield,Coastal,Yes,A+,Hypertension,2020-12-26
+72,Douglas Butcher,Female,1979-10-24,45,Auckland,Takapuna,Coastal,Yes,B-,Hypertension,2023-02-09
+73,Shane Bailey,Female,1949-04-24,76,Auckland,Takapuna,Coastal,No,A+,Hypertension,2022-11-10
+74,Ryan Pearce-Bailey,Female,1997-03-31,28,Auckland,Manukau,Inland,Yes,A+,Asthma,2022-07-31
+75,Harriet Howell,Male,2024-06-06,1,Auckland,Glenfield,Coastal,Yes,A+,Asthma,2021-04-01
+76,Jennifer Orchard,Male,1972-08-03,53,Auckland,Henderson,Inland,No,A-,Diabetes (Type 2),2022-08-04
+77,Brett Frost,Female,2007-07-31,18,Auckland,Albany,Coastal,Yes,O+,None,2022-06-03
+78,Andrew Nelson-Matthews,Female,1958-11-26,66,Auckland,Henderson,Inland,Yes,O+,Arthritis,2024-07-17
+79,Hinewai Thomas-Beard,Female,1977-04-16,48,Auckland,Manukau,Inland,Yes,A-,Diabetes (Type 2),2023-04-26
+80,Patrick Smith,Female,1960-06-20,65,Auckland,Manukau,Inland,Yes,O+,Arthritis,2021-10-09
+81,Joanne Kay,Female,2007-11-19,17,Auckland,Pukekohe,Inland,Yes,O+,None,2021-04-13
+82,Michelle Jackson,Male,1979-07-17,46,Auckland,New Lynn,Inland,No,A-,Diabetes (Type 2),2024-11-27
+83,Nathan Webb-Hickey,Male,1975-06-23,50,Auckland,Albany,Coastal,Yes,A+,Hypertension,2023-12-02
+84,Jason Buckley,Male,2010-01-20,15,Auckland,Howick,Coastal,Yes,O+,None,2020-09-08
+85,Georgia Hayward-Smith,Male,1958-04-14,67,Auckland,Takapuna,Coastal,No,A+,Hypertension,2024-11-03
+86,Robyn Stratford,Male,1973-08-25,51,Auckland,Papakura,Inland,Yes,A+,Diabetes (Type 2),2021-05-24
+87,Judith MacDonald,Female,1978-06-17,47,Auckland,Papakura,Inland,Yes,O+,Hypertension,2023-07-24
+88,Ethan Clifford,Male,1999-01-01,26,Auckland,Manukau,Inland,Yes,B+,None,2021-01-18
+89,Ryan Wheeler,Female,2018-11-18,6,Auckland,Takapuna,Coastal,Yes,A-,None,2022-06-16
+90,Carter Jones,Male,1976-11-06,48,Auckland,Papakura,Inland,Yes,B-,Diabetes (Type 2),2021-07-07
+91,John Lammas,Female,1999-04-08,26,Auckland,Pukekohe,Inland,Yes,O-,Anxiety,2024-10-21
+92,Kathryn Jensen,Female,2012-12-12,12,Auckland,Silverdale,Coastal,Yes,A+,None,2021-04-05
+93,Richard Cook,Male,2023-11-21,1,Auckland,Glenfield,Coastal,Yes,A+,None,2019-08-27
+94,Logan Turnbull,Female,2005-02-03,20,Auckland,Papakura,Inland,Yes,O+,None,2023-07-23
+95,Robert Donaldson,Female,1951-02-12,74,Auckland,New Lynn,Inland,Yes,O+,Hypertension,2023-06-28
+96,Valerie Reed,Male,2010-09-02,14,Auckland,Howick,Coastal,Yes,A+,Asthma,2024-09-02
+97,Sarah Hayward,Female,2017-12-25,7,Auckland,Takapuna,Coastal,No,A+,Asthma,2023-11-25
+98,Emily Parker,Male,1956-04-05,69,Auckland,Pukekohe,Inland,Yes,O+,Arthritis,2023-08-23
+99,Katherine Green,Female,2021-05-21,4,Auckland,Manukau,Inland,No,B+,None,2021-12-18
+100,David Graham-Stokes,Male,1994-06-20,31,Auckland,Papakura,Inland,Yes,A+,None,2020-04-06
+101,David Pike,Female,1945-07-26,80,Auckland,Manukau,Inland,No,O-,Heart Disease,2020-10-12
+102,Jessica Douglas,Male,1963-09-20,61,Auckland,Manukau,Inland,Yes,A+,Arthritis,2020-02-25
+103,Samuel Olsen,Female,1991-03-10,34,Auckland,Silverdale,Coastal,Yes,O+,Anxiety,2020-02-19
+104,Jane Smith-Clarke,Female,2014-02-03,11,Auckland,Howick,Coastal,No,O+,Asthma,2019-10-09
+105,Piper Cole,Female,1987-09-05,37,Auckland,Manukau,Inland,Yes,O+,Hypertension,2023-03-03
+106,Denise Coleman,Male,2016-09-13,8,Auckland,Henderson,Inland,No,O+,Asthma,2021-06-25
+107,Michelle Paterson,Male,1938-07-20,87,Auckland,Takapuna,Coastal,Yes,O+,Chronic Kidney Disease,2022-11-30
+108,Hoani Elliott,Male,1957-01-23,68,Auckland,Howick,Coastal,Yes,A+,Hypertension,2023-08-01
+109,Michelle Thompson-Wilton,Male,1988-03-23,37,Auckland,Papakura,Inland,Yes,B+,Diabetes (Type 2),2024-08-21
+110,Dennis Patchett,Male,1997-06-09,28,Auckland,Silverdale,Coastal,Yes,O+,Anxiety,2021-02-24
+111,Rachel Fisher,Female,1996-06-26,29,Auckland,Pukekohe,Inland,Yes,A-,Asthma,2022-05-21
+112,John Simonsen,Male,1991-12-23,33,Auckland,Albany,Coastal,Yes,AB+,Asthma,2021-10-01
+113,Michael Findlay,Female,1941-09-09,83,Auckland,Pukekohe,Inland,Yes,B+,Heart Disease,2022-08-01
+114,Warwick Ward,Male,2023-04-21,2,Auckland,Henderson,Inland,Yes,A+,None,2019-12-13
+115,David Crawford,Female,1937-05-17,88,Auckland,Takapuna,Coastal,Yes,AB+,Heart Disease,2024-11-21
+116,John Russell,Female,1950-03-03,75,Auckland,Papakura,Inland,No,A+,Heart Disease,2024-05-27
+117,Maree Schwass-Thomas,Female,1984-10-21,40,Auckland,Pukekohe,Inland,Yes,A+,Arthritis,2021-01-12
+118,Mark McFarlane,Female,1956-11-20,68,Auckland,Pukekohe,Inland,No,O-,Hypertension,2022-04-02
+119,Tracey Ward,Male,2012-12-19,12,Auckland,Glenfield,Coastal,Yes,O+,None,2022-10-19
+120,Bradley Mercer,Female,2015-03-09,10,Auckland,Henderson,Inland,Yes,O-,Asthma,2024-12-09
+121,Renee Matthews-Wilton,Male,2016-04-25,9,Auckland,Henderson,Inland,No,O+,None,2020-08-20
+122,Melissa Smith,Female,1985-01-13,40,Auckland,New Lynn,Inland,Yes,A-,Hypertension,2020-03-11
+123,Jayden Price,Female,1991-10-09,33,Auckland,Papakura,Inland,Yes,O+,Asthma,2023-10-11
+124,Christine Woolley,Female,1997-03-03,28,Auckland,Papakura,Inland,Yes,O+,Asthma,2020-11-27
+125,Samantha Atkinson-Burton,Male,2023-02-16,2,Auckland,Glenfield,Coastal,Yes,O+,None,2021-11-26
+126,Graeme Jensen-Stace,Female,1993-11-18,31,Auckland,Manukau,Inland,Yes,A+,Anxiety,2024-08-23
+127,Philip Wong,Female,1972-07-24,53,Auckland,Glenfield,Coastal,No,O+,Hypertension,2023-06-10
+128,Joshua Webb,Female,1986-03-07,39,Auckland,Albany,Coastal,Yes,A-,Arthritis,2022-06-20
+129,Ruby Harrison,Male,2000-12-15,24,Auckland,Howick,Coastal,Yes,O+,Asthma,2021-05-30
+130,Alexandra Jarvis,Female,2015-09-27,9,Auckland,Albany,Coastal,Yes,O+,None,2021-12-15
+131,Kathleen Holloway,Female,1946-04-02,79,Auckland,Takapuna,Coastal,Yes,O+,Heart Disease,2021-08-28
+132,Rochelle Scott,Male,1999-05-25,26,Auckland,New Lynn,Inland,Yes,A-,None,2023-10-12
+133,George Greer,Female,1964-10-04,60,Auckland,Albany,Coastal,Yes,A+,Chronic Kidney Disease,2023-01-17
+134,Helen Irving,Female,1999-01-04,26,Auckland,Henderson,Inland,No,O+,None,2024-04-24
+135,Nicola Knight,Female,2009-07-04,16,Auckland,Albany,Coastal,Yes,A+,Anxiety,2022-06-02
+136,Paul Oliver,Male,1968-10-25,56,Auckland,Silverdale,Coastal,Yes,A+,Hypertension,2021-07-26
+137,Daniel Fuller,Male,2007-07-13,18,Auckland,Albany,Coastal,Yes,A+,None,2021-03-07
+138,Eva Harris-Davis,Male,2014-11-04,10,Auckland,New Lynn,Inland,Yes,A-,Asthma,2024-01-25
+139,Geoffrey Tucker,Female,1965-07-24,60,Auckland,Glenfield,Coastal,No,O+,Arthritis,2022-09-04
+140,Zachary Simmons,Male,1951-10-30,73,Auckland,Howick,Coastal,Yes,O+,Arthritis,2021-12-09
+141,Simon Stevenson,Male,1951-10-15,73,Auckland,Silverdale,Coastal,Yes,O+,Arthritis,2023-10-13
+142,Helen Christie,Female,1998-06-26,27,Auckland,Glenfield,Coastal,Yes,O+,None,2023-09-05
+143,Ryan Dixon,Female,1968-12-17,56,Auckland,Albany,Coastal,No,A-,Diabetes (Type 2),2023-09-02
+144,Charlie Hardy,Male,1944-09-06,80,Auckland,Manukau,Inland,Yes,O+,Hypertension,2024-07-06
+145,Brian Blair,Female,1975-12-14,49,Auckland,Silverdale,Coastal,Yes,O+,Hypertension,2020-04-30
+146,Dianne McLeod-Ferguson,Female,2017-02-13,8,Auckland,Papakura,Inland,Yes,A+,Asthma,2024-09-04
+147,Maraea Jenkins-Healy,Female,1994-11-08,30,Auckland,New Lynn,Inland,Yes,A+,Asthma,2022-02-18
+148,Michael Allen,Female,2017-07-27,8,Auckland,Henderson,Inland,Yes,O+,None,2020-06-13
+149,Clinton Williams,Male,1945-08-25,80,Auckland,Glenfield,Coastal,Yes,B+,Arthritis,2020-12-09
+150,Natasha Chapman,Female,1934-12-19,90,Auckland,Glenfield,Coastal,Yes,A+,Hypertension,2023-01-30
+151,Patrick Low-Fowler,Female,1939-01-16,86,Auckland,Albany,Coastal,Yes,A+,Arthritis,2021-07-29
+152,Michelle Southee-Rush,Male,1966-05-15,59,Auckland,Silverdale,Coastal,Yes,A+,Hypertension,2021-11-08
+153,Thomas Humphrey,Female,2008-09-18,16,Auckland,New Lynn,Inland,Yes,O+,Asthma,2021-07-08
+154,Robert MacKenzie,Male,1944-04-26,81,Auckland,Manukau,Inland,Yes,AB+,Chronic Kidney Disease,2020-02-11
+155,Brooke McIntosh,Female,2012-01-26,13,Auckland,Manukau,Inland,Yes,A+,Asthma,2022-01-22
+156,Lauren Davidson,Female,1989-05-19,36,Auckland,Papakura,Inland,Yes,O+,Arthritis,2021-12-02
+157,Patricia Holmes,Female,2015-12-29,9,Auckland,Papakura,Inland,Yes,A+,None,2019-12-11
+158,William Potter,Male,1938-02-13,87,Auckland,Silverdale,Coastal,Yes,O+,Hypertension,2020-05-19
+159,Wiremu Joe,Male,2012-11-19,12,Auckland,Albany,Coastal,No,O+,Asthma,2024-08-07
+160,Raymond Gray,Female,1971-04-13,54,Auckland,Glenfield,Coastal,No,O+,Diabetes (Type 2),2024-07-04
+161,Connor Nielsen-Bright,Female,2005-03-25,20,Auckland,Howick,Coastal,Yes,O+,None,2023-05-14
+162,Helen Graham,Male,2001-07-10,24,Auckland,Albany,Coastal,Yes,B+,None,2020-05-19
+163,Jessica Cresswell,Female,1948-11-01,76,Auckland,Takapuna,Coastal,Yes,O+,Hypertension,2020-12-21
+164,John Oliver,Female,1989-02-06,36,Auckland,Silverdale,Coastal,Yes,A+,Diabetes (Type 2),2024-04-14
+165,Shirley Gunn,Female,1978-08-07,47,Auckland,Papakura,Inland,No,O-,None,2020-08-04
+166,Jessica Edwards,Male,1934-10-04,90,Auckland,Pukekohe,Inland,Yes,O-,Arthritis,2024-03-21
+167,Mary Manning,Female,1983-11-03,41,Auckland,Papakura,Inland,Yes,AB+,Arthritis,2024-11-25
+168,Caitlyn McKay,Male,1962-04-21,63,Auckland,Papakura,Inland,No,O+,Chronic Kidney Disease,2021-11-16
+169,Xavier Griffiths,Female,2000-07-27,25,Auckland,Albany,Coastal,Yes,A+,Anxiety,2020-08-21
+170,Liam Simmons-Scott,Female,1967-03-03,58,Auckland,Takapuna,Coastal,Yes,A+,Arthritis,2020-12-14
+171,Michael Simpson,Male,1950-01-16,75,Auckland,Albany,Coastal,Yes,B-,Arthritis,2023-07-13
+172,Jamie Burton-Crawford,Female,1974-04-28,51,Auckland,Albany,Coastal,No,O-,Arthritis,2023-12-08
+173,Jacob Blick,Female,1996-10-07,28,Auckland,Henderson,Inland,Yes,O-,Asthma,2024-04-17
+174,Edward Doyle,Male,2003-10-09,21,Auckland,Pukekohe,Inland,No,A+,None,2020-10-07
+175,Emma Smith,Male,1991-01-27,34,Auckland,Albany,Coastal,Yes,O+,None,2022-06-30
+176,Waimarie West-Moore,Male,1975-03-27,50,Auckland,Papakura,Inland,Yes,O+,Hypertension,2024-08-06
+177,Hayley Pritchard,Female,2007-11-25,17,Auckland,Takapuna,Coastal,Yes,O+,Asthma,2023-09-22
+178,Sonya Orchard,Female,1985-12-09,39,Auckland,Pukekohe,Inland,Yes,O+,Diabetes (Type 2),2023-06-24
+179,Donna Stone,Female,1967-02-07,58,Auckland,Pukekohe,Inland,Yes,A+,Diabetes (Type 2),2024-06-20
+180,Nicole Hardy,Male,1940-07-16,85,Auckland,Papakura,Inland,Yes,A+,Arthritis,2022-04-24
+181,Vivienne Jackson,Female,1987-02-23,38,Auckland,Glenfield,Coastal,Yes,O+,Diabetes (Type 2),2020-11-24
+182,Simon Gardner,Female,2014-12-04,10,Auckland,Pukekohe,Inland,Yes,B-,Asthma,2022-06-06
+183,Paul Perry,Female,2006-03-08,19,Auckland,Glenfield,Coastal,Yes,A+,Asthma,2023-06-29
+184,John Foot,Male,2023-09-19,1,Auckland,Manukau,Inland,No,A+,None,2020-12-01
+185,Melissa Norton,Female,1980-09-04,44,Auckland,Takapuna,Coastal,Yes,A+,None,2024-11-27
+186,Mary Lang,Male,2007-03-24,18,Auckland,Pukekohe,Inland,No,AB+,None,2022-11-02
+187,Matthew Baker,Male,2001-01-04,24,Auckland,Pukekohe,Inland,Yes,O+,Anxiety,2024-03-16
+188,Jayden Harris,Female,1973-09-17,51,Auckland,Silverdale,Coastal,Yes,A-,Diabetes (Type 2),2021-07-16
+189,Cheyenne Stevens,Female,2020-11-07,4,Auckland,Papakura,Inland,Yes,O+,Asthma,2020-06-17
+190,Rosemary Morrison,Female,1938-07-16,87,Auckland,Henderson,Inland,Yes,O+,Heart Disease,2019-12-30
+191,David Williamson,Female,1985-08-13,40,Auckland,New Lynn,Inland,Yes,O+,Diabetes (Type 2),2023-04-09
+192,Ben Pearce,Female,1959-02-08,66,Auckland,Glenfield,Coastal,Yes,O+,Heart Disease,2021-01-19
+193,Suzanne Turner,Male,2018-12-10,6,Auckland,Silverdale,Coastal,Yes,O+,None,2021-08-27
+194,Ella Smith,Female,1997-05-12,28,Auckland,New Lynn,Inland,Yes,B+,None,2021-10-07
+195,Charlotte Gardner,Male,1997-12-02,27,Auckland,Papakura,Inland,Yes,B+,None,2022-01-19
+196,Michael Rush-Neal,Female,1981-08-19,44,Auckland,Henderson,Inland,Yes,O+,Hypertension,2024-08-08
+197,Sharon Mitchell,Female,1975-09-20,49,Auckland,Pukekohe,Inland,No,O+,Hypertension,2021-04-19
+198,Lisa Doherty,Female,1986-07-03,39,Auckland,Manukau,Inland,Yes,O+,Hypertension,2024-06-20
+199,Emma Rose,Female,1974-10-13,50,Auckland,Albany,Coastal,Yes,O-,Hypertension,2019-10-17
+200,Sarah Cooke,Female,1941-04-11,84,Auckland,Henderson,Inland,No,B+,Heart Disease,2024-10-06
+201,Denise McDonald,Female,1965-12-02,59,Auckland,Pukekohe,Inland,Yes,O+,Arthritis,2024-10-08
+202,Stuart Freeth,Male,1968-09-16,56,Auckland,Papakura,Inland,Yes,A-,Diabetes (Type 2),2020-10-07
+203,Mark Perano,Female,1976-08-24,48,Auckland,Howick,Coastal,No,A-,Diabetes (Type 2),2023-05-10
+204,Piper Gray,Male,1946-11-13,78,Auckland,Henderson,Inland,Yes,B-,Arthritis,2022-02-11
+205,Kylie Marsh,Female,1952-08-02,73,Auckland,Glenfield,Coastal,No,O+,Hypertension,2024-03-11
+206,Wendy Wallace,Female,1956-12-29,68,Auckland,Albany,Coastal,Yes,A+,Heart Disease,2021-10-16
+207,Victoria Turner,Male,1980-09-12,44,Auckland,Takapuna,Coastal,Yes,O+,Arthritis,2020-08-01
+208,Jacqueline Eaton,Male,1965-04-22,60,Auckland,Albany,Coastal,Yes,A+,Heart Disease,2022-12-26
+209,Brooke Gardiner,Male,1936-06-29,89,Auckland,Henderson,Inland,Yes,B+,Heart Disease,2021-11-08
+210,Sandra Buckley,Female,1970-04-13,55,Auckland,Silverdale,Coastal,No,A+,None,2024-07-30
+211,Amanda Guthrie,Male,1949-05-06,76,Auckland,Takapuna,Coastal,No,O+,Hypertension,2021-08-05
+212,Diane Brown-Edmonds,Female,2011-01-03,14,Auckland,Takapuna,Coastal,No,O+,Asthma,2022-05-25
+213,Cameron Fenton,Male,1975-09-23,49,Auckland,Albany,Coastal,Yes,B+,Diabetes (Type 2),2023-01-29
+214,Blair Lang,Male,1976-01-10,49,Auckland,Papakura,Inland,Yes,A-,Diabetes (Type 2),2023-10-18
+215,Jade Kay,Female,1953-01-23,72,Auckland,Papakura,Inland,No,O+,Arthritis,2022-11-29
+216,Penelope Simpson-Day,Female,2008-02-14,17,Auckland,Manukau,Inland,No,A+,None,2023-03-04
+217,Jessica Middlemiss-Anderson,Male,1948-01-29,77,Auckland,Albany,Coastal,Yes,O+,Hypertension,2023-10-08
+218,Judith Baker,Female,1985-01-11,40,Auckland,Manukau,Inland,Yes,A+,None,2021-06-15
+219,Leah Meads,Female,1983-12-18,41,Auckland,Albany,Coastal,Yes,O+,Arthritis,2020-06-13
+220,Emma Eglinton,Male,1983-06-01,42,Auckland,Manukau,Inland,Yes,O+,Diabetes (Type 2),2020-02-14
+221,Michael Nelson,Female,1996-06-27,29,Auckland,Manukau,Inland,Yes,O+,None,2020-05-20
+222,Elizabeth Jackson,Female,1937-07-04,88,Auckland,Henderson,Inland,Yes,A+,Chronic Kidney Disease,2020-01-14
+223,Samuel Barrett,Male,2011-06-10,14,Auckland,Albany,Coastal,No,O+,Asthma,2021-05-08
+224,Grant Moore,Male,2014-05-29,11,Auckland,New Lynn,Inland,Yes,A-,Asthma,2021-06-10
+225,Shane Turner-Stewart,Male,2015-09-18,9,Auckland,Manukau,Inland,No,A+,Asthma,2019-08-18
+226,Murray Smith,Male,1968-09-18,56,Auckland,Glenfield,Coastal,Yes,O+,Diabetes (Type 2),2021-02-02
+227,Mark Smith,Male,1936-08-15,89,Auckland,Silverdale,Coastal,Yes,O+,Heart Disease,2022-08-27
+228,Peter Berry,Female,1970-09-19,54,Auckland,Albany,Coastal,No,A+,Arthritis,2020-01-19
+229,Rebecca Lee,Male,1943-04-02,82,Auckland,Pukekohe,Inland,Yes,AB+,Chronic Kidney Disease,2023-08-28
+230,Diane Bishop,Male,1949-06-11,76,Auckland,Glenfield,Coastal,Yes,O+,Heart Disease,2023-06-14
+231,John Burnett-Taylor,Male,2024-04-11,1,Auckland,Silverdale,Coastal,Yes,A+,None,2024-01-16
+232,Natasha Burns,Male,1999-10-16,25,Auckland,Takapuna,Coastal,Yes,A+,None,2023-01-08
+233,Graeme Moore,Female,1994-12-20,30,Auckland,Henderson,Inland,Yes,O+,None,2020-03-25
+234,Maureen Little-Webb,Male,1951-10-11,73,Auckland,Takapuna,Coastal,Yes,B+,Hypertension,2021-12-11
+235,John Rodgers-Harris,Male,2015-11-27,9,Auckland,Glenfield,Coastal,Yes,A+,Asthma,2024-02-13
+236,Jason Lyons,Female,1950-03-04,75,Auckland,Glenfield,Coastal,Yes,A+,Hypertension,2024-04-17
+237,Jennifer Miles,Male,1990-12-02,34,Auckland,Glenfield,Coastal,Yes,A+,Asthma,2022-06-28
+238,Michelle Boyce,Female,1977-02-19,48,Auckland,Takapuna,Coastal,Yes,B-,Hypertension,2023-03-27
+239,Benjamin Thompson,Male,1955-05-17,70,Auckland,Glenfield,Coastal,No,B+,Chronic Kidney Disease,2023-08-22
+240,Samantha Cooksley,Female,1993-05-18,32,Auckland,Henderson,Inland,Yes,A+,None,2020-06-05
+241,Hayley Campbell,Male,2014-06-02,11,Auckland,Manukau,Inland,Yes,O+,None,2024-05-19
+242,William Ball,Female,1982-09-22,42,Auckland,Albany,Coastal,Yes,B+,Hypertension,2023-03-16
+243,Kelly Simpson-Burton,Female,1982-06-17,43,Auckland,Albany,Coastal,Yes,A+,Arthritis,2020-06-26
+244,Jacqueline Pritchard,Female,1949-04-30,76,Auckland,Glenfield,Coastal,Yes,O+,Hypertension,2022-08-01
+245,Sarah Lambert,Female,2012-09-25,12,Auckland,Henderson,Inland,Yes,O-,Asthma,2021-07-12
+246,Amanda McFarlane,Female,2019-03-21,6,Auckland,New Lynn,Inland,No,O-,Asthma,2024-10-28
+247,Dylan Pritchard,Male,1970-12-31,54,Auckland,Henderson,Inland,Yes,O+,Arthritis,2019-11-07
+248,Connor Turner,Male,1980-11-06,44,Auckland,Henderson,Inland,Yes,A-,Hypertension,2022-08-04
+249,Cameron Armstrong,Male,2024-01-24,1,Auckland,Howick,Coastal,Yes,O+,Asthma,2023-01-06
+250,Debra Currie,Male,1938-10-09,86,Auckland,Albany,Coastal,Yes,B+,Hypertension,2020-05-21
+251,Grace Webb,Female,1980-12-30,44,Auckland,Pukekohe,Inland,Yes,B-,Diabetes (Type 2),2020-12-11
+252,Stephen Hart,Female,2011-11-07,13,Auckland,Silverdale,Coastal,Yes,A+,None,2024-09-04
+253,Dylan Beattie,Female,2018-09-08,6,Auckland,Pukekohe,Inland,Yes,A+,Asthma,2020-01-11
+254,Jessica Reid,Female,2000-09-12,24,Auckland,Takapuna,Coastal,Yes,AB+,None,2024-10-08
+255,Joanne Miller,Male,2004-04-30,21,Auckland,Pukekohe,Inland,Yes,A+,Asthma,2020-07-28
+256,Michelle Jones,Male,2015-04-29,10,Auckland,Papakura,Inland,Yes,A+,Diabetes (Type 1),2023-09-29
+257,Aaron Johnston,Female,1988-05-24,37,Auckland,New Lynn,Inland,Yes,O+,Hypertension,2024-09-14
+258,Flynn Campbell-Holdaway,Female,1963-05-08,62,Auckland,Albany,Coastal,Yes,O+,Arthritis,2020-10-09
+259,Jackson Low,Female,1993-03-18,32,Auckland,Papakura,Inland,Yes,A+,Asthma,2021-02-05
+260,Anna Haines,Female,2002-09-08,22,Auckland,Manukau,Inland,Yes,O+,None,2024-05-10
+261,John Williams,Female,1940-05-10,85,Auckland,Albany,Coastal,Yes,A+,Hypertension,2023-04-26
+262,Lisa Carson,Female,1977-03-17,48,Auckland,Pukekohe,Inland,Yes,O+,Arthritis,2024-07-02
+263,James Corlett,Male,1991-06-13,34,Auckland,Henderson,Inland,Yes,A+,None,2022-01-25
+264,Sarah Allerby,Male,1957-12-28,67,Auckland,Pukekohe,Inland,Yes,O+,Heart Disease,2024-11-11
+265,David Forrest,Female,1946-08-05,79,Auckland,Silverdale,Coastal,No,AB+,Heart Disease,2023-04-27
+266,Sophia Mears,Male,2005-11-29,19,Auckland,Manukau,Inland,Yes,O+,None,2020-04-10
+267,Barry Armstrong,Male,1964-10-03,60,Auckland,Henderson,Inland,Yes,A+,Chronic Kidney Disease,2022-06-09
+268,Terence Phillips,Male,2006-10-25,18,Auckland,Silverdale,Coastal,Yes,O-,Asthma,2023-12-11
+269,Bradley Russell,Male,2022-06-12,3,Auckland,Henderson,Inland,Yes,A+,None,2020-11-10
+270,Phoenix Coley,Male,1958-03-19,67,Auckland,Silverdale,Coastal,Yes,A+,Hypertension,2024-09-23
+271,Karen McMillan,Male,1958-09-16,66,Auckland,Papakura,Inland,No,O+,Hypertension,2024-12-11
+272,Melanie Soper-Marshall,Female,2013-06-19,12,Auckland,Pukekohe,Inland,Yes,B+,Asthma,2023-06-04
+273,Jeremy Weston,Male,2019-12-19,5,Auckland,Glenfield,Coastal,No,B+,Diabetes (Type 1),2022-04-18
+274,Mark Clarke-Williams,Male,2020-07-13,5,Auckland,Henderson,Inland,Yes,A+,None,2022-03-07
+275,Angus Manson,Female,1997-06-11,28,Auckland,Manukau,Inland,Yes,A+,Asthma,2023-06-14
+276,Lynette O'Brien-Field,Male,1945-01-16,80,Auckland,Pukekohe,Inland,Yes,O+,Hypertension,2020-05-16
+277,Melissa Marshall-Shaw,Female,1940-03-08,85,Auckland,New Lynn,Inland,Yes,A+,Chronic Kidney Disease,2023-06-07
+278,Ava Beard,Male,1955-02-18,70,Auckland,Glenfield,Coastal,Yes,O+,Hypertension,2020-02-18
+279,Melissa Anderson,Male,1981-05-05,44,Auckland,Manukau,Inland,No,A-,Hypertension,2020-04-28
+280,Kim Hart,Female,1994-03-07,31,Auckland,Takapuna,Coastal,Yes,A+,None,2023-05-06
+281,Jessica Wells,Female,1985-05-06,40,Auckland,Albany,Coastal,No,O+,Hypertension,2022-01-04
+282,Angela Scott,Female,2015-12-22,9,Auckland,Silverdale,Coastal,No,O+,Asthma,2020-01-19
+283,Paul Fitzgerald-Fairhall,Male,1987-03-19,38,Auckland,Papakura,Inland,Yes,O+,Diabetes (Type 2),2022-01-08
+284,Mark Turner,Female,1955-01-25,70,Auckland,Howick,Coastal,No,A+,Heart Disease,2022-06-10
+285,Caitlin Tucker,Female,1982-03-18,43,Auckland,Albany,Coastal,Yes,O+,Arthritis,2022-03-30
+286,Jane Flood,Male,1946-02-17,79,Auckland,Manukau,Inland,Yes,A+,Arthritis,2022-03-28
+287,Michael Grant,Female,1951-12-29,73,Auckland,Pukekohe,Inland,Yes,A+,Arthritis,2024-01-31
+288,Glenda Middlemiss,Male,1983-11-05,41,Auckland,Glenfield,Coastal,Yes,A+,Diabetes (Type 2),2019-10-05
+289,David Martin,Female,1981-02-09,44,Auckland,Silverdale,Coastal,No,O+,Diabetes (Type 2),2023-09-28
+290,Justin Butler,Male,1945-02-06,80,Auckland,New Lynn,Inland,Yes,B+,Arthritis,2022-02-13
+291,Sophie Goodwin,Male,2006-04-06,19,Auckland,Manukau,Inland,Yes,O+,Anxiety,2019-12-05
+292,Christopher Manson,Female,2015-11-20,9,Auckland,Glenfield,Coastal,Yes,O+,None,2022-10-23
+293,Amy O'Sullivan,Male,2019-08-18,5,Auckland,Albany,Coastal,Yes,B+,None,2021-01-05
+294,Evie Schwass-Ferguson,Male,1966-12-05,58,Auckland,Henderson,Inland,Yes,AB+,Diabetes (Type 2),2023-05-21
+295,William Reardon-Craw,Female,2007-04-12,18,Auckland,Papakura,Inland,Yes,AB+,None,2021-08-22
+296,Hinewai Page-Miller,Female,1961-01-02,64,Auckland,Takapuna,Coastal,Yes,O+,Hypertension,2022-09-25
+297,Jessica Bell,Male,1986-07-28,39,Auckland,Henderson,Inland,No,A+,None,2023-11-19
+298,Simon Taylor,Female,1961-10-12,63,Auckland,Glenfield,Coastal,Yes,A+,Hypertension,2024-09-30
+299,Tina Dickson,Male,2000-01-04,25,Auckland,Henderson,Inland,Yes,B+,None,2022-10-06
+300,Benjamin Bell-Ferguson,Female,2004-10-24,20,Auckland,Papakura,Inland,No,A+,Anxiety,2020-08-31
+301,Ariana Ingram,Female,2004-06-19,21,Auckland,Papakura,Inland,Yes,B+,None,2020-11-09
+302,Jamie Black,Male,1995-12-31,29,Auckland,Manukau,Inland,No,A+,None,2022-07-31
+303,Terina Boyce,Female,1985-06-30,40,Auckland,Henderson,Inland,Yes,O+,Hypertension,2021-08-11
+304,Samuel Satherley,Female,1938-06-09,87,Auckland,Pukekohe,Inland,Yes,O+,Heart Disease,2022-04-26
+305,Felix Long,Female,1954-06-24,71,Auckland,Takapuna,Coastal,Yes,A-,Heart Disease,2020-10-10
+306,Margaret Drew,Female,1953-06-28,72,Auckland,Glenfield,Coastal,Yes,B+,Arthritis,2023-08-06
+307,Samuel Little,Female,1937-03-09,88,Auckland,Henderson,Inland,Yes,B+,Arthritis,2021-10-13
+308,Bella McKay,Male,2017-06-20,8,Auckland,Silverdale,Coastal,Yes,A+,None,2024-02-04
+309,David O'Neill,Male,1975-08-03,50,Auckland,Albany,Coastal,Yes,A+,Hypertension,2020-08-22
+310,Brent Cumming,Male,2019-05-14,6,Auckland,Pukekohe,Inland,Yes,A+,Asthma,2023-06-30
+311,Michael Bird,Female,2015-10-26,9,Auckland,Albany,Coastal,Yes,A+,None,2024-03-01
+312,Abby Clarke,Female,1954-02-21,71,Auckland,Howick,Coastal,Yes,O+,Chronic Kidney Disease,2022-01-30
+313,Murray Thompson,Female,2012-04-07,13,Auckland,New Lynn,Inland,No,B+,Asthma,2023-02-24
+314,Leah Baldwin,Male,1983-09-05,41,Auckland,Pukekohe,Inland,Yes,A-,Hypertension,2020-03-07
+315,James Chapman,Male,2003-09-09,21,Auckland,Silverdale,Coastal,No,A+,Anxiety,2024-04-26
+316,Ella Smith,Female,2021-02-11,4,Auckland,Albany,Coastal,No,B-,None,2022-11-23
+317,Peter Watts,Female,1943-10-18,81,Auckland,Albany,Coastal,Yes,O+,Arthritis,2022-07-16
+318,Andrew Cole,Male,2013-10-18,11,Auckland,Silverdale,Coastal,Yes,A+,None,2022-06-08
+319,Zoe Webster,Male,2022-01-31,3,Auckland,Silverdale,Coastal,Yes,A+,Asthma,2021-02-03
+320,Paul Dyer,Female,1959-05-30,66,Auckland,Papakura,Inland,Yes,A+,Heart Disease,2020-10-01
+321,Andrew Ward,Male,1939-08-20,86,Auckland,Albany,Coastal,No,AB-,Hypertension,2022-02-06
+322,Keith Berkahn-Douglas,Female,1940-04-21,85,Auckland,Manukau,Inland,No,O+,Heart Disease,2022-04-16
+323,Ethan Haines,Male,1969-01-28,56,Auckland,Papakura,Inland,Yes,A+,Diabetes (Type 2),2019-12-01
+324,Bruce Barnes-Neilson,Male,1941-02-08,84,Auckland,Silverdale,Coastal,Yes,A-,Arthritis,2022-06-06
+325,Yvonne Holdaway,Male,1994-06-13,31,Auckland,New Lynn,Inland,Yes,O+,None,2022-11-23
+326,Emma Thompson,Male,2002-04-25,23,Auckland,Henderson,Inland,Yes,A+,Anxiety,2022-09-24
+327,Madison Steele,Male,1992-05-16,33,Auckland,Glenfield,Coastal,Yes,A-,None,2020-04-11
+328,Ava Patchett,Female,2008-11-02,16,Auckland,Pukekohe,Inland,Yes,A+,None,2022-02-07
+329,Madison McEwen,Male,1974-11-02,50,Auckland,Silverdale,Coastal,Yes,B+,Diabetes (Type 2),2022-03-19
+330,Amy Paul,Male,1995-01-06,30,Auckland,Takapuna,Coastal,No,A-,None,2022-08-06
+331,Emma Murdoch,Female,1982-08-01,43,Auckland,Howick,Coastal,Yes,A+,Arthritis,2024-11-01
+332,Isla Seymour,Female,1942-05-29,83,Auckland,New Lynn,Inland,Yes,A-,Hypertension,2020-03-30
+333,Sean O'Donnell,Female,1956-05-16,69,Auckland,Glenfield,Coastal,Yes,A+,Arthritis,2019-11-14
+334,Anthony Craig,Female,1994-03-27,31,Auckland,Papakura,Inland,Yes,O+,None,2019-11-26
+335,Trinity Anderson,Female,1984-06-16,41,Auckland,Henderson,Inland,Yes,O+,None,2022-09-08
+336,Jade Pritchard,Male,1955-06-26,70,Auckland,Henderson,Inland,Yes,O+,Hypertension,2023-06-07
+337,Jacqueline Oliver,Male,2012-09-16,12,Auckland,Albany,Coastal,No,A-,Asthma,2020-10-10
+338,Alexander Edwards,Female,1972-07-12,53,Auckland,Howick,Coastal,No,A-,None,2021-09-23
+339,Bridget Stone,Female,2005-01-24,20,Auckland,Howick,Coastal,Yes,A+,Asthma,2022-11-24
+340,Faith Sixtus-Burns,Female,1995-05-04,30,Auckland,Glenfield,Coastal,Yes,O+,None,2021-06-06
+341,John Banks,Female,1951-04-17,74,Auckland,Howick,Coastal,Yes,O+,Hypertension,2020-10-04
+342,Michelle Carson,Female,1995-03-07,30,Auckland,Pukekohe,Inland,Yes,A+,Anxiety,2020-05-08
+343,Steven Norton-Dickson,Male,2009-06-15,16,Auckland,Albany,Coastal,No,O-,None,2024-03-20
+344,Kelly Campbell,Female,2021-05-23,4,Auckland,Henderson,Inland,Yes,O+,Asthma,2021-01-31
+345,Robert Smith,Female,1961-12-14,63,Auckland,New Lynn,Inland,Yes,A+,Hypertension,2020-10-14
+346,Karen Priest,Female,2010-01-01,15,Auckland,Pukekohe,Inland,No,O+,None,2024-06-22
+347,Anthony Kennedy,Female,1952-04-05,73,Auckland,Henderson,Inland,No,O+,Heart Disease,2024-10-23
+348,Rebecca Edmonds,Male,1999-09-30,25,Auckland,Howick,Coastal,Yes,A+,Asthma,2024-01-29
+349,Melanie Ferguson,Male,1944-08-21,81,Auckland,Silverdale,Coastal,Yes,B+,Heart Disease,2020-09-02
+350,Stephen Ellery,Male,2005-01-05,20,Auckland,Pukekohe,Inland,No,O+,Anxiety,2022-07-15
